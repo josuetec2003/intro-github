@@ -2,8 +2,7 @@
 
 int main()
 {
-	printf("SEND TO USA Misil 1; GO\n");
-	printf("Misil 1 SEND TWO TIMES\n");
+	printf("I'M JUST KIDDING\n");
 	getchar();
 	return 0;
 }
